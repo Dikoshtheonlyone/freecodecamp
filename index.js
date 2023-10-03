@@ -28,3 +28,5 @@ b = a;
 
 var a = 9;
 
+var myFirstName = "Dikosh";
+var myLastName="L";
