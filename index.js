@@ -26,3 +26,5 @@ b = 7;
 // Only change code below this line
 b = a;
 
+var a = 9;
+
