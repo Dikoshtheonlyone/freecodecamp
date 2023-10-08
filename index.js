@@ -62,3 +62,6 @@ b = a;
 // Only change code below this line
 
 var a = 9;
+
+var myFirstName = "D";
+  var myLastName = "L";
