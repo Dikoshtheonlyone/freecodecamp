@@ -40,3 +40,8 @@ var c = "I am a";
 a = a + 1;
 b = b + 5;
 c = c + " String!";
+
+/* This is a
+multi-line comment */
+
+// This is an in-line comment.
