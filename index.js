@@ -95,3 +95,6 @@ fact = "is awesome!";
 console.log(FCC, fact); // Change this line
 
 const sum = 20 + 0;
+
+const difference = 45 - 33;
+console.log(difference)
