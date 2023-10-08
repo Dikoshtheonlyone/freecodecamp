@@ -60,3 +60,5 @@ var b;
 b = 7;
 b = a;
 // Only change code below this line
+
+var a = 9;
